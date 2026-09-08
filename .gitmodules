@@ -1,0 +1,3 @@
+[submodule "designs/openpdk-libraries"]
+	path = designs/openpdk-libraries
+	url = git@github.com:openic-org/openpdk-libraries.git
