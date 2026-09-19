@@ -22,4 +22,4 @@ set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2
 set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2585/dependencies/IHP__ADC8711/ADC8711-main/schematic/xschem
 set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2585/dependencies/IHP__CDR4176/CDR4176-main/schematic/xschem
 set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2585/dependencies/IHP__DAC4133/DAC4133-main/schematic/xschem
-set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2585/dependencies/IHP__VCO0497/VCO0497-main/schematic/xschem
+set XSCHEM_LIBRARY_PATH ${XSCHEM_LIBRARY_PATH}:$env(HOME)/designs/libs/IHP__MPC2585/dependencies/IHP__VCO2497/VCO2497-main/schematic/xschem
